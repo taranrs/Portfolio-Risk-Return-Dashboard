@@ -16,11 +16,11 @@ An interactive **Streamlit web app** that calculates and visualizes **portfolio 
 
 ---
 
-## ⚙️ Installation  
+## Installation  
 
 Clone the repository:  
 ```bash
-git clone https://github.com/taranrs/Portfolio-Risk-Return-Dashboard.git
+git clone https://github.com/taranrs/portfolio-risk-return-dashboard.git
 cd Portfolio-Risk-Return-Dashboard
 pip install -r requirements.txt
 streamlit run app.py
